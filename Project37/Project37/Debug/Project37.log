@@ -1,0 +1,37 @@
+﻿  2.cpp
+d:\新建文件夹 (2)\c++\project37\project37\2.cpp(293): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\microsoft visual studio\vc\tools\msvc\14.13.26128\include\xutility(1062): error C3848: 具有类型“const CompareNoCase”的表达式会丢失一些 const-volatile 限定符以调用“bool CompareNoCase::operator ()(const std::string &,const std::string &)”
+  d:\microsoft visual studio\vc\tools\msvc\14.13.26128\include\xutility(1059): note: 参见对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<const CompareNoCase&,const std::basic_string<char,std::char_traits<char>,std::allocator<char>>&,const std::basic_string<char,std::char_traits<char>,std::allocator<char>>&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)”的引用
+          with
+          [
+              _Pr=const CompareNoCase &,
+              _Ty1=const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &,
+              _Ty2=const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &
+          ]
+  d:\microsoft visual studio\vc\tools\msvc\14.13.26128\include\xtree(2018): note: 编译 类 模板 成员函数 "bool std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Compare(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &,const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &) const" 时
+          with
+          [
+              _Kty=std::string,
+              _Pr=CompareNoCase,
+              _Alloc=std::allocator<std::string>
+          ]
+  d:\microsoft visual studio\vc\tools\msvc\14.13.26128\include\xtree(2037): note: 参见对正在编译的函数 模板 实例化“bool std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Compare(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &,const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &) const”的引用
+          with
+          [
+              _Kty=std::string,
+              _Pr=CompareNoCase,
+              _Alloc=std::allocator<std::string>
+          ]
+  d:\microsoft visual studio\vc\tools\msvc\14.13.26128\include\set(54): note: 参见对正在编译的 类 模板 实例化 "std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>" 的引用
+          with
+          [
+              _Kty=std::string,
+              _Pr=CompareNoCase,
+              _Alloc=std::allocator<std::string>
+          ]
+  d:\新建文件夹 (2)\c++\project37\project37\2.cpp(275): note: 参见对正在编译的 类 模板 实例化 "std::set<std::string,CompareNoCase,std::allocator<_Kty>>" 的引用
+          with
+          [
+              _Kty=std::string
+          ]
+d:\microsoft visual studio\vc\tools\msvc\14.13.26128\include\xutility(1062): error C2056: 非法表达式
