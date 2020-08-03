@@ -1,0 +1,54 @@
+Warning: File:(qwindowswindow.cpp) Line:(1478) QWindowsWindow::setGeometry: Unable to set geometry 75x23+640+280 on QWidgetWindow/'QDemoClassWindow'. Resulting geometry:  120x23+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215). (2020-04-14 18:12:58 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(64) pimage QImage(QSize(600, 432),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1036800) (2020-04-14 18:13:00 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(64) pimage QImage(QSize(600, 450),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1080000) (2020-04-14 18:13:00 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(64) pimage QImage(QSize(429, 306),format=4,depth=32,devicePixelRatio=1,bytesPerLine=1716,byteCount=525096) (2020-04-14 18:13:00 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(64) pimage QImage(QSize(600, 400),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=960000) (2020-04-14 18:13:00 周二)
+
+Warning: File:(qwindowswindow.cpp) Line:(1478) QWindowsWindow::setGeometry: Unable to set geometry 75x23+640+280 on QWidgetWindow/'QDemoClassWindow'. Resulting geometry:  120x23+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215). (2020-04-14 18:55:30 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(600, 432),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1036800) (2020-04-14 18:55:34 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(600, 450),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1080000) (2020-04-14 18:55:34 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(429, 306),format=4,depth=32,devicePixelRatio=1,bytesPerLine=1716,byteCount=525096) (2020-04-14 18:55:34 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(600, 400),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=960000) (2020-04-14 18:55:34 周二)
+
+Warning: File:(qwindowswindow.cpp) Line:(1478) QWindowsWindow::setGeometry: Unable to set geometry 75x23+640+280 on QWidgetWindow/'QDemoClassWindow'. Resulting geometry:  120x23+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215). (2020-04-14 18:55:55 周二)
+
+Warning: File:(kernel\qmetatype.cpp) Line:(646) Type conversion already registered from type QSharedPointer<QNetworkSession> to type QObject* (2020-04-14 18:55:59 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(600, 450),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1080000) (2020-04-14 18:56:00 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(600, 432),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1036800) (2020-04-14 18:56:00 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(429, 306),format=4,depth=32,devicePixelRatio=1,bytesPerLine=1716,byteCount=525096) (2020-04-14 18:56:00 周二)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(66) pimage QImage(QSize(600, 400),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=960000) (2020-04-14 18:56:00 周二)
+
+Warning: File:(qwindowswindow.cpp) Line:(1478) QWindowsWindow::setGeometry: Unable to set geometry 75x23+640+280 on QWidgetWindow/'QDemoClassWindow'. Resulting geometry:  120x23+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215). (2020-04-14 19:14:54 周二)
+
+Warning: File:(qwindowswindow.cpp) Line:(1478) QWindowsWindow::setGeometry: Unable to set geometry 75x23+640+280 on QWidgetWindow/'QDemoClassWindow'. Resulting geometry:  120x23+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215). (2020-04-15 10:03:34 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(QSize(600, 432),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1036800) (2020-04-15 10:03:37 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(QSize(600, 450),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1080000) (2020-04-15 10:03:37 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(QSize(429, 306),format=4,depth=32,devicePixelRatio=1,bytesPerLine=1716,byteCount=525096) (2020-04-15 10:03:37 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(null) (2020-04-15 10:03:37 周三)
+
+Warning: File:(qwindowswindow.cpp) Line:(1478) QWindowsWindow::setGeometry: Unable to set geometry 75x23+640+280 on QWidgetWindow/'QDemoClassWindow'. Resulting geometry:  120x23+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215). (2020-04-15 10:04:00 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(QSize(600, 432),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1036800) (2020-04-15 10:04:02 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(QSize(600, 450),format=4,depth=32,devicePixelRatio=1,bytesPerLine=2400,byteCount=1080000) (2020-04-15 10:04:02 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(QSize(429, 306),format=4,depth=32,devicePixelRatio=1,bytesPerLine=1716,byteCount=525096) (2020-04-15 10:04:02 周三)
+
+Debug: File:(e:\qtwork\qdemo\qdemo\qdemo.cpp) Line:(68) pimage QImage(null) (2020-04-15 10:04:02 周三)
+
